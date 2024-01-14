@@ -1,0 +1,20 @@
+.app-header {
+  z-index: 999;
+}
+.app-header .bgc-header {
+  width: 100%;
+  height: 80px;
+  z-index: 0;
+}
+.app-header .bgc-header .bgc-header-1 {
+  height: 100%;
+  width: 35%;
+  background: -webkit-linear-gradient(90deg, rgb(255, 255, 255) 7%, rgb(120, 7, 11) 94%);
+  background: -moz-linear-gradient(90deg, rgb(255, 255, 255) 7%, rgb(120, 7, 11) 94%);
+  background: linear-gradient(90deg, rgb(255, 255, 255) 7%, rgb(120, 7, 11) 94%);
+}
+.app-header .bgc-header .bgc-header-2 {
+  background-color: #78070B;
+  height: 100%;
+  width: 65%;
+}
