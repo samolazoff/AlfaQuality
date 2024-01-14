@@ -1,0 +1,25 @@
+{
+  "name": "alfaquality",
+  "version": "1.0.0",
+  "description": "This is website about company \"Alfa Quality from Minsk\"",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samolazoff/AlfaQuality.git"
+  },
+  "author": "Samolazoff",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samolazoff/AlfaQuality/issues"
+  },
+  "homepage": "https://github.com/samolazoff/AlfaQuality#readme",
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "gulp-pug": "^5.0.0",
+    "gulp-sass": "^5.1.0",
+    "sass": "^1.69.7"
+  }
+}
